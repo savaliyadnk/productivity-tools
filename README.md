@@ -16,7 +16,7 @@
 1. [Udemy](https://www.udemy.com/)
 
 ## Notes
-1. [SimpleNote]()
+1. [SimpleNote](https://simplenote.com/)
 2. [OneNote [Microsoft]](https://www.onenote.com/)
 3. [Keep Notes [Google]](https://keep.google.com/)
 4. [Evernote](https://evernote.com/)
@@ -33,6 +33,10 @@
 ## Mail
 1. [Outlook](https://outlook.live.com/)
 2. [GMail](https://mail.google.com/mail/)
+
+## Editor
+1. [Foxit Phantom PDF](https://www.foxit.com/pdf-editor/)
+2. [OBS Stdio Video](https://obsproject.com/)
 
 ## Payment On PlayStore
 1. [PhonePay](https://play.google.com/store/apps/details?id=com.phonepe.app&hl=en_IN&gl=US)
